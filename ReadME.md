@@ -1,1 +1,4 @@
-# MongoDB + KeyCloak API + OTP(Gmail) + Keras + Federated Learning 
+# Implement Keras with Federated Learning
+'''
+MongoDB + KeyCloak API + OTP(Gmail)  
+'''
