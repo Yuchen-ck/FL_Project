@@ -1,0 +1,27 @@
+INFO  -23 -log_utils - 2023-09-14 20:51:54  keycloak login suceesfully  
+WARNING  -47 -log_utils - 2023-09-14 20:52:23  OTP login fail       
+INFO  -39 -log_utils - 2023-09-14 20:52:52  OTP login suceesfully  
+INFO  -82 -log_utils - 2023-09-14 20:52:54  Start to use the predicting system.        
+INFO  -23 -log_utils - 2023-09-14 21:16:36  keycloak login suceesfully  
+WARNING  -47 -log_utils - 2023-09-14 21:17:12  OTP login fail       
+INFO  -23 -log_utils - 2023-09-14 21:17:40  keycloak login suceesfully  
+INFO  -39 -log_utils - 2023-09-14 21:18:04  OTP login suceesfully  
+INFO  -82 -log_utils - 2023-09-14 21:18:06  Start to use the predicting system.        
+INFO  -23 -log_utils - 2023-09-14 21:19:24  keycloak login suceesfully  
+INFO  -39 -log_utils - 2023-09-14 21:19:44  OTP login suceesfully  
+INFO  -82 -log_utils - 2023-09-14 21:19:45  Start to use the predicting system.        
+INFO  -23 -log_utils - 2023-09-14 21:58:07  keycloak login suceesfully  
+INFO  -23 -log_utils - 2023-09-14 21:59:52  keycloak login suceesfully  
+INFO  -23 -log_utils - 2023-09-14 22:01:06  keycloak login suceesfully  
+INFO  -39 -log_utils - 2023-09-14 22:01:34  OTP login suceesfully  
+INFO  -82 -log_utils - 2023-09-14 22:01:35  Start to use the predicting system.        
+INFO  -23 -log_utils - 2023-09-14 22:06:58  keycloak login suceesfully  
+INFO  -39 -log_utils - 2023-09-14 22:07:30  OTP login suceesfully  
+INFO  -82 -log_utils - 2023-09-14 22:07:31  Start to use the predicting system.        
+INFO  -23 -log_utils - 2023-09-14 22:20:06  keycloak login suceesfully  
+INFO  -39 -log_utils - 2023-09-14 22:20:28  OTP login suceesfully  
+INFO  -82 -log_utils - 2023-09-14 22:20:30  Start to use the predicting system.        
+INFO  -23 -log_utils - 2023-09-14 22:22:12  keycloak login suceesfully  
+INFO  -39 -log_utils - 2023-09-14 22:22:32  OTP login suceesfully  
+INFO  -82 -log_utils - 2023-09-14 22:22:33  Start to use the predicting system.        
+INFO  -54 -log_utils - 2023-09-14 22:22:42  serverDB connects suceesfully  
